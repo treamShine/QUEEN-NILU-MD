@@ -29,7 +29,7 @@ global.OWNER_NAME = 'Tream X '
 
 global.TIMEZONE = 'Asia/Colombo' 
 
-global.INBOX_BLOCK_MESSAGE = '' // Inboc Block Message
+global.INBOX_BLOCK_MESSAGE = 'කරුනාකර අදාල Group එක තුළ පමනක් බොට් භාවිත කරන්න ❤️' // Inboc Block Message
 
 global.INBOX_BLOCK = 'false' // TO Inbox Block On put true
 
@@ -41,19 +41,19 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = 'Tream X'
 
-global.FOOTER = 'Queen Nilu 2023'
+global.FOOTER = 'Tream X 2023'
 
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@Tream X 🤹‍♂️' //sticker
 
-global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
+global.LANG = 'SI' // Language (EN-  TO english  ,  SI- TO sinhala )
 
 global.PREFIX = '.' // Bot Prefix
 
-global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
+global.CAPTION = 'Tream X  © 2023' // Caption
 
 global.ALIVELOGO = 'https://telegra.ph/file/50485b07a9cddf08224b6.jpg' // Set Alive Logo link 
 
@@ -89,6 +89,6 @@ global.VOICE_REPLY = true
 
 /* V card */
 
-global.ytname = "YT: janithsadanuwan" //ur yt chanel name
+global.ytname = "YT: Tream X" //ur yt chanel name
 global.socialm = "GitHub: janithsadanuwan" //ur github or insta name
 global.location = "Srilanka, colombo" //ur location
